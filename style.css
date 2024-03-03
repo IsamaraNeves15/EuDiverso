@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 400px;
+  font-size: 16px;
+  line-height: 2.2em;
+  background: rgb(241, 239, 239);
+}
+
+.figura {
+  text-align: center;
+}
+
+ footer ul li  {
+  list-style: none;
+ }
